@@ -9,9 +9,12 @@
 - blablablabla
 - blablabla
 
+> Wat eigen notities
+
 # Les 3
 
 - blabla
 - blablabla
 - bla
 
+> Not wat meer eigen notities
